@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/register.py": {
+      "runtime": "vercel-python@0.9.1"
+    }
+  }
+}
